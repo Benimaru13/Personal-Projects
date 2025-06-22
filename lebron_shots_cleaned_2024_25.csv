@@ -1,652 +1,652 @@
-GAME_ID,GAME_DATE,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ZONE_BASIC,ACTION_TYPE,SHOT_TYPE,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG
-22400015,1970-01-01 00:00:00.020241115,1,8,43,1,-10,4,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22400015,1970-01-01 00:00:00.020241115,1,1,18,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22400015,1970-01-01 00:00:00.020241115,2,10,53,3,-12,29,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400015,1970-01-01 00:00:00.020241115,2,7,3,25,-185,176,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400015,1970-01-01 00:00:00.020241115,3,9,31,2,-11,21,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400015,1970-01-01 00:00:00.020241115,4,0,25,2,-5,20,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,1,10,15,5,-18,57,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,1,6,21,1,6,18,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,2,9,10,19,-188,58,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,2,0,49,3,4,31,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,3,8,21,2,-22,19,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,3,7,23,28,65,280,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,3,6,27,1,-1,15,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,4,3,47,18,83,166,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400026,1970-01-01 00:00:00.020241119,4,2,59,12,-47,114,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400039,1970-01-01 00:00:00.020241126,1,10,36,23,-205,124,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400039,1970-01-01 00:00:00.020241126,1,7,20,19,-183,64,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400039,1970-01-01 00:00:00.020241126,2,8,27,0,2,6,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400039,1970-01-01 00:00:00.020241126,2,1,6,12,56,111,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400039,1970-01-01 00:00:00.020241126,3,9,14,3,-11,28,Restricted Area,Putback Dunk Shot,2PT Field Goal,1,1
-22400039,1970-01-01 00:00:00.020241126,3,4,36,18,12,186,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400039,1970-01-01 00:00:00.020241126,4,7,12,26,147,216,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400048,1970-01-01 00:00:00.020241129,1,7,0,5,-29,44,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400048,1970-01-01 00:00:00.020241129,2,1,41,1,6,18,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400048,1970-01-01 00:00:00.020241129,3,10,39,9,-97,-2,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400048,1970-01-01 00:00:00.020241129,3,7,32,0,5,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400048,1970-01-01 00:00:00.020241129,4,8,20,14,-100,100,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400062,1970-01-01 00:00:00.020241022,1,8,56,3,16,29,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400062,1970-01-01 00:00:00.020241022,1,8,35,2,1,20,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400062,1970-01-01 00:00:00.020241022,2,8,33,4,4,47,In The Paint (Non-RA),Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22400062,1970-01-01 00:00:00.020241022,2,2,14,2,-15,16,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22400062,1970-01-01 00:00:00.020241022,4,11,34,0,-7,-5,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400062,1970-01-01 00:00:00.020241022,4,9,11,2,-11,20,Restricted Area,Running Alley Oop Layup Shot,2PT Field Goal,1,1
-22400062,1970-01-01 00:00:00.020241022,4,1,34,25,-110,226,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400085,1970-01-01 00:00:00.020241025,1,0,29,2,9,18,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400085,1970-01-01 00:00:00.020241025,2,2,41,2,-10,22,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400085,1970-01-01 00:00:00.020241025,3,9,47,28,-1,289,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400085,1970-01-01 00:00:00.020241025,3,9,20,27,-1,272,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400085,1970-01-01 00:00:00.020241025,3,7,21,1,0,16,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400085,1970-01-01 00:00:00.020241025,3,2,18,1,9,9,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400085,1970-01-01 00:00:00.020241025,4,11,14,11,-110,8,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,1,8,10,2,-15,19,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,2,11,36,14,109,99,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,2,9,59,19,11,198,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,2,9,27,13,132,30,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,3,3,31,27,-98,257,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,3,1,44,2,-20,17,Restricted Area,Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,4,11,22,28,-15,284,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,4,10,49,16,81,148,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,4,10,28,3,-27,26,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,4,9,58,28,129,253,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,4,8,46,27,1,274,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400096,1970-01-01 00:00:00.020241026,4,8,23,2,-21,21,Restricted Area,Reverse Layup Shot,2PT Field Goal,1,1
-22400111,1970-01-01 00:00:00.020241028,1,1,9,29,-51,291,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400111,1970-01-01 00:00:00.020241028,3,2,45,16,-123,117,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400111,1970-01-01 00:00:00.020241028,4,1,58,24,-138,197,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,1,11,15,0,4,7,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,1,0,41,27,-169,212,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,2,8,40,1,-4,15,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,2,2,53,1,10,2,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,3,10,40,0,2,9,Restricted Area,Dunk Shot,2PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,3,8,40,0,9,1,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,3,8,24,0,0,-5,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,3,3,55,1,9,-6,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400118,1970-01-01 00:00:00.020241030,3,0,12,0,1,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,1,11,43,23,-235,-5,Left Corner 3,Jump Shot,3PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,1,8,30,25,-40,247,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,1,8,14,0,-5,3,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,1,1,56,1,-9,8,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,1,0,7,26,2,268,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,2,11,27,0,-6,5,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,2,8,44,2,-26,6,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,3,1,27,27,-27,275,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400137,1970-01-01 00:00:00.020241101,4,10,30,26,81,254,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400156,1970-01-01 00:00:00.020241104,1,5,34,2,-20,-10,Restricted Area,Running Reverse Layup Shot,2PT Field Goal,1,1
-22400156,1970-01-01 00:00:00.020241104,2,9,49,1,18,5,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400156,1970-01-01 00:00:00.020241104,2,1,57,1,-7,15,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400156,1970-01-01 00:00:00.020241104,2,1,25,1,-13,0,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400156,1970-01-01 00:00:00.020241104,2,0,2,25,-119,221,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400156,1970-01-01 00:00:00.020241104,3,0,58,13,124,55,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400156,1970-01-01 00:00:00.020241104,4,6,36,1,13,8,Restricted Area,Floating Jump shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,1,7,26,25,-22,258,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,1,1,10,25,-142,209,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,2,11,11,2,-18,15,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,2,9,38,27,-88,262,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,2,4,35,3,-33,17,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,2,3,35,11,-13,110,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,2,3,5,1,12,12,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,2,1,2,8,42,73,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,2,0,44,3,25,20,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,3,11,9,10,-104,5,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,3,9,28,25,38,251,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,3,9,1,24,29,247,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,4,9,23,0,-7,0,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,4,8,42,23,-229,41,Left Corner 3,Running Jump Shot,3PT Field Goal,1,1
-22400174,1970-01-01 00:00:00.020241106,4,5,11,1,-13,-8,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,2,9,6,3,6,31,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,2,2,40,2,27,9,Restricted Area,Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,2,1,2,12,64,111,In The Paint (Non-RA),Pullup Jump shot,2PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,3,10,17,5,31,51,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,3,9,46,3,20,27,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,3,0,21,26,18,267,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,4,10,35,8,-75,48,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,4,7,12,25,-20,256,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400195,1970-01-01 00:00:00.020241108,4,3,16,12,-124,12,Mid-Range,Turnaround Jump Shot,2PT Field Goal,1,1
-22400211,1970-01-01 00:00:00.020241110,2,8,24,2,20,20,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400211,1970-01-01 00:00:00.020241110,3,11,19,0,1,8,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400211,1970-01-01 00:00:00.020241110,3,7,31,3,-9,30,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400211,1970-01-01 00:00:00.020241110,3,1,50,7,-2,79,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400211,1970-01-01 00:00:00.020241110,3,1,18,3,2,31,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1
-22400211,1970-01-01 00:00:00.020241110,4,3,44,1,7,13,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,1,9,15,3,-13,33,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,1,6,33,2,-12,27,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,1,0,51,24,157,191,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,1,0,0,30,110,283,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,2,7,47,27,-219,163,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,2,2,33,16,-21,167,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,2,1,13,28,-140,248,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,3,9,13,1,-7,-8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,3,6,25,2,2,20,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,4,9,37,0,6,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,4,8,27,8,40,75,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,4,4,19,1,15,13,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400225,1970-01-01 00:00:00.020241113,4,3,1,1,13,8,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22400231,1970-01-01 00:00:00.020241116,2,11,26,3,17,27,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400231,1970-01-01 00:00:00.020241116,2,8,13,1,1,11,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1
-22400231,1970-01-01 00:00:00.020241116,2,3,13,4,32,29,In The Paint (Non-RA),Turnaround Bank Hook Shot,2PT Field Goal,1,1
-22400231,1970-01-01 00:00:00.020241116,2,0,51,4,-28,31,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400231,1970-01-01 00:00:00.020241116,4,11,10,6,-67,7,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400231,1970-01-01 00:00:00.020241116,4,3,52,3,29,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400231,1970-01-01 00:00:00.020241116,4,1,51,28,-145,248,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400231,1970-01-01 00:00:00.020241116,4,0,37,26,45,258,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,1,11,45,2,17,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,1,7,41,27,195,195,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,1,0,35,14,67,125,In The Paint (Non-RA),Pullup Jump shot,2PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,2,11,23,3,5,32,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,2,7,38,4,21,43,In The Paint (Non-RA),Hook Shot,2PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,3,11,33,26,-23,268,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,3,1,34,4,-11,42,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,4,8,27,27,124,246,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,4,7,47,27,2,275,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,4,7,23,30,-64,294,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,4,6,10,3,-11,28,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400263,1970-01-01 00:00:00.020241121,4,1,37,1,1,11,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1
-22400270,1970-01-01 00:00:00.020241123,1,9,6,0,-5,-4,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400270,1970-01-01 00:00:00.020241123,1,0,43,15,121,103,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400270,1970-01-01 00:00:00.020241123,2,11,32,1,-5,19,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400270,1970-01-01 00:00:00.020241123,2,8,25,2,10,20,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400270,1970-01-01 00:00:00.020241123,2,8,2,27,138,234,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400270,1970-01-01 00:00:00.020241123,3,5,56,3,7,31,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22400270,1970-01-01 00:00:00.020241123,4,9,25,12,-121,22,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400296,1970-01-01 00:00:00.020241127,1,10,50,0,-6,3,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22400296,1970-01-01 00:00:00.020241127,2,1,30,1,-5,14,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400296,1970-01-01 00:00:00.020241127,3,10,55,1,16,8,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400296,1970-01-01 00:00:00.020241127,3,0,46,1,12,5,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400296,1970-01-01 00:00:00.020241127,4,8,36,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22400296,1970-01-01 00:00:00.020241127,4,6,43,2,-22,4,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400296,1970-01-01 00:00:00.020241127,4,6,22,8,-7,84,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400296,1970-01-01 00:00:00.020241127,4,4,36,13,131,-1,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,1,9,36,22,123,183,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,1,5,38,2,-21,16,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,2,11,47,12,-124,17,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,2,11,12,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,2,1,4,9,32,93,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,3,9,17,7,-65,39,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,3,4,24,1,10,5,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,4,7,59,13,-87,101,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,4,6,55,0,-5,-1,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,4,6,15,1,13,5,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,4,5,33,9,-76,55,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400311,1970-01-01 00:00:00.020241201,4,0,41,9,-61,70,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400318,1970-01-01 00:00:00.020241202,1,10,13,1,7,15,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400318,1970-01-01 00:00:00.020241202,2,1,25,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22400318,1970-01-01 00:00:00.020241202,3,4,40,17,102,138,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400318,1970-01-01 00:00:00.020241202,4,11,24,2,25,15,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,1,11,21,1,7,17,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,1,10,14,18,-109,152,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,1,9,47,1,-11,15,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,1,0,50,1,-2,11,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,1,0,25,4,0,48,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,2,9,25,0,4,5,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,2,6,50,13,137,21,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,2,5,49,1,11,6,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,3,10,36,1,7,10,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,3,8,55,26,93,251,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,3,8,21,16,-87,137,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400321,1970-01-01 00:00:00.020241204,4,9,9,0,-9,1,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,1,10,31,24,-5,247,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,1,0,44,24,158,193,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,2,11,3,0,5,-1,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,2,7,41,12,-120,5,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,2,5,28,24,-53,237,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,2,5,3,0,-6,-5,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,3,9,57,26,-138,222,Above the Break 3,Floating Jump shot,3PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,3,1,43,12,124,-4,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,4,10,48,1,9,16,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,4,9,9,6,-6,62,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,4,4,12,25,124,228,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,4,1,55,18,-109,146,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,4,0,12,2,-10,27,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400334,1970-01-01 00:00:00.020241206,5,2,13,24,-230,92,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400372,1970-01-01 00:00:00.020241219,1,8,34,26,-13,264,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400372,1970-01-01 00:00:00.020241219,2,10,6,5,36,36,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400372,1970-01-01 00:00:00.020241219,2,2,17,3,26,21,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400372,1970-01-01 00:00:00.020241219,2,0,31,5,40,36,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400372,1970-01-01 00:00:00.020241219,3,9,7,3,-34,10,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400372,1970-01-01 00:00:00.020241219,3,1,43,3,-4,38,Restricted Area,Running Reverse Layup Shot,2PT Field Goal,1,1
-22400372,1970-01-01 00:00:00.020241219,4,3,42,2,-18,15,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400372,1970-01-01 00:00:00.020241219,4,0,40,2,-13,25,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,1,8,43,4,11,44,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,1,7,14,4,9,44,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,1,1,20,5,-51,-5,In The Paint (Non-RA),Driving Dunk Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,1,0,54,5,-54,5,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,1,0,0,17,-99,141,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,2,11,32,19,20,197,Mid-Range,Driving Hook Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,2,10,6,5,26,47,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,2,9,8,8,48,74,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,2,8,14,3,-9,29,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,2,1,20,7,50,49,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,4,11,46,14,109,95,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,4,11,12,27,-145,229,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400376,1970-01-01 00:00:00.020241221,4,3,42,14,-3,143,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,1,8,2,1,-12,1,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,1,6,40,25,126,226,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,1,2,30,3,28,15,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,3,8,44,28,86,272,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,3,0,40,2,12,18,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,4,11,34,22,-1,227,Mid-Range,Running Pull-Up Jump Shot,2PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,4,10,26,21,-20,218,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,4,4,5,1,10,15,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,4,1,46,12,-113,49,Mid-Range,Fadeaway Bank shot,2PT Field Goal,1,1
-22400404,1970-01-01 00:00:00.020241223,4,0,46,2,-21,15,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,1,11,4,5,-1,57,In The Paint (Non-RA),Hook Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,1,10,34,3,32,17,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,1,6,37,3,-26,15,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,1,2,1,6,-43,55,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,2,10,42,27,174,218,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,2,2,12,3,-34,19,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,2,1,18,18,-42,183,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,3,9,50,5,-49,18,In The Paint (Non-RA),Layup Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,3,5,18,4,-26,33,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,3,4,50,11,-37,105,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,4,9,17,5,-31,47,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1
-22400408,1970-01-01 00:00:00.020241225,4,2,28,27,-1,277,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,1,10,15,2,-5,25,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,1,9,45,25,-200,158,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,1,8,19,27,103,251,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,1,0,34,7,-45,64,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,2,6,46,0,6,6,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,3,8,55,1,-11,8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,4,9,8,2,11,19,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,4,3,21,0,5,-2,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400454,1970-01-01 00:00:00.020241231,4,2,50,22,-221,-10,Left Corner 3,Running Jump Shot,3PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,1,10,1,1,6,11,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,1,0,55,0,-7,5,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,2,10,55,1,-7,13,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,2,9,46,26,-159,208,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,2,3,17,27,205,190,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,2,2,12,1,1,13,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,2,1,51,30,-37,299,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,3,9,31,28,-140,246,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,3,8,41,32,-158,279,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,3,7,32,23,227,59,Right Corner 3,Jump Shot,3PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,4,9,44,4,-37,32,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,4,6,46,14,-142,42,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,4,2,9,1,-5,17,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,4,0,58,26,-153,222,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400468,1970-01-01 00:00:00.020250102,4,0,17,2,17,20,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,1,8,28,3,-10,29,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,1,6,57,1,0,14,Restricted Area,Reverse Layup Shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,1,0,55,0,4,9,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,2,10,50,1,-9,9,Restricted Area,Reverse Layup Shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,2,9,0,11,-59,104,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,2,1,36,15,124,101,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,3,9,14,28,-37,283,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,3,8,42,22,-12,228,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,3,1,27,20,-130,162,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,4,7,45,3,10,33,Restricted Area,Reverse Layup Shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,4,7,14,27,-108,257,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,4,6,38,15,-150,39,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400477,1970-01-01 00:00:00.020250103,4,5,58,17,-172,39,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400491,1970-01-01 00:00:00.020250105,1,6,16,6,-58,34,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1
-22400491,1970-01-01 00:00:00.020250105,2,9,41,8,-75,35,In The Paint (Non-RA),Pullup Jump shot,2PT Field Goal,1,1
-22400491,1970-01-01 00:00:00.020250105,3,9,39,25,-194,162,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400491,1970-01-01 00:00:00.020250105,3,8,6,9,87,34,Mid-Range,Running Layup Shot,2PT Field Goal,1,1
-22400491,1970-01-01 00:00:00.020250105,3,7,31,30,-138,275,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400491,1970-01-01 00:00:00.020250105,3,4,51,25,202,148,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400491,1970-01-01 00:00:00.020250105,3,4,19,26,-161,205,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400491,1970-01-01 00:00:00.020250105,4,0,8,6,65,22,In The Paint (Non-RA),Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400504,1970-01-01 00:00:00.020250107,1,8,6,1,15,8,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400504,1970-01-01 00:00:00.020250107,1,6,18,0,-7,4,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22400504,1970-01-01 00:00:00.020250107,1,0,17,26,86,255,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400504,1970-01-01 00:00:00.020250107,3,11,28,15,-148,42,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400504,1970-01-01 00:00:00.020250107,3,9,28,0,-4,4,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400504,1970-01-01 00:00:00.020250107,4,9,0,11,34,110,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,1,10,17,6,-13,60,In The Paint (Non-RA),Running Dunk Shot,2PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,1,9,44,25,-115,232,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,1,9,1,30,-133,269,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,2,10,5,19,176,89,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,4,8,45,8,37,75,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,4,8,24,4,-11,40,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,4,7,17,3,23,29,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,4,6,48,7,19,69,In The Paint (Non-RA),Driving Dunk Shot,2PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,4,6,17,26,-124,236,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400524,1970-01-01 00:00:00.020250219,4,0,6,28,92,269,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400552,1970-01-01 00:00:00.020250113,1,7,52,26,123,235,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400552,1970-01-01 00:00:00.020250113,2,11,41,17,58,167,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400552,1970-01-01 00:00:00.020250113,2,10,35,26,-192,188,Above the Break 3,Floating Jump shot,3PT Field Goal,1,1
-22400552,1970-01-01 00:00:00.020250113,2,7,39,1,9,15,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400552,1970-01-01 00:00:00.020250113,3,6,46,6,58,30,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400552,1970-01-01 00:00:00.020250113,4,11,14,2,16,15,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400552,1970-01-01 00:00:00.020250113,4,2,35,2,10,24,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,1,9,0,3,28,24,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,2,11,49,6,-8,61,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,2,2,39,4,-22,44,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,3,7,22,25,-224,116,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,3,6,40,24,231,70,Right Corner 3,Jump Shot,3PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,4,10,8,5,-33,46,In The Paint (Non-RA),Running Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,4,3,25,27,89,260,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,4,2,49,15,-81,134,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400570,1970-01-01 00:00:00.020250115,4,1,52,18,-181,52,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,1,7,1,1,-13,14,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,1,1,33,26,-96,243,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,1,0,2,25,72,242,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,2,9,31,1,6,19,Restricted Area,Running Reverse Layup Shot,2PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,2,8,58,2,16,19,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,3,7,56,4,-11,41,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,3,7,9,11,118,17,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,3,0,47,3,-11,31,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,4,11,44,11,17,109,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,4,9,33,27,-86,256,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,4,6,47,28,-37,278,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400585,1970-01-01 00:00:00.020250117,4,2,32,2,11,25,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,1,8,51,23,205,124,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,1,8,22,25,53,247,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,1,6,9,1,10,0,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,2,8,43,0,-2,3,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,3,8,18,13,-23,136,In The Paint (Non-RA),Jump Shot,2PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,3,7,34,3,20,25,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,3,1,54,13,21,136,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,3,0,3,6,-54,42,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400596,1970-01-01 00:00:00.020250119,4,3,2,12,-16,125,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400610,1970-01-01 00:00:00.020250121,1,7,41,3,-26,19,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400610,1970-01-01 00:00:00.020250121,1,1,16,5,-34,47,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1
-22400610,1970-01-01 00:00:00.020250121,2,11,30,26,222,142,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400610,1970-01-01 00:00:00.020250121,2,8,2,6,44,43,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1
-22400610,1970-01-01 00:00:00.020250121,2,6,31,0,-2,1,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400610,1970-01-01 00:00:00.020250121,2,6,5,1,9,14,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400610,1970-01-01 00:00:00.020250121,3,10,31,27,-103,257,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400610,1970-01-01 00:00:00.020250121,3,7,2,2,13,17,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,1,10,42,1,4,15,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,1,2,14,1,9,6,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,1,1,40,6,-61,-17,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,1,0,8,1,15,4,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,2,7,53,16,-32,162,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,2,7,24,2,16,16,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,4,11,0,18,-41,178,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,4,9,57,18,-4,180,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400629,1970-01-01 00:00:00.020250123,4,8,21,5,-35,46,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,1,6,40,19,172,100,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,1,6,10,6,59,16,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,1,1,32,7,12,71,In The Paint (Non-RA),Turnaround Jump Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,2,8,20,6,50,47,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,2,1,17,9,-98,18,Mid-Range,Driving Floating Jump Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,3,9,9,4,34,29,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,3,7,35,4,-36,28,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,4,11,7,11,-65,90,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,4,9,58,4,-38,29,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,4,8,52,4,37,28,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,4,2,35,2,-5,20,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400644,1970-01-01 00:00:00.020250125,4,0,33,5,-34,41,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,1,11,15,0,7,6,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,1,9,23,2,-20,9,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,2,9,27,6,-69,11,In The Paint (Non-RA),Turnaround Hook Shot,2PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,3,11,24,1,7,8,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,3,9,15,26,-50,258,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,3,5,48,12,-32,123,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,3,0,32,2,16,12,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,4,10,34,11,-78,91,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400648,1970-01-01 00:00:00.020250127,4,4,0,2,7,22,Restricted Area,Driving Floating Jump Shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,1,10,13,1,-15,12,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,1,9,1,1,1,17,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,2,2,55,1,1,11,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,2,0,14,8,-86,6,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,3,10,19,20,25,199,Mid-Range,Turnaround Jump Shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,4,11,20,19,65,180,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,4,9,40,1,12,8,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,4,8,54,10,-11,105,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,4,7,13,25,-77,247,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400660,1970-01-01 00:00:00.020250128,4,6,34,1,12,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,1,10,34,17,-36,176,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,1,5,26,31,-107,293,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,1,1,50,1,1,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,1,1,21,2,-1,21,Restricted Area,Driving Floating Jump Shot,2PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,2,6,59,1,-17,9,Restricted Area,Running Reverse Layup Shot,2PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,2,1,53,12,120,-2,Mid-Range,Running Jump Shot,2PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,3,9,1,10,-66,76,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,3,8,12,15,-159,5,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400674,1970-01-01 00:00:00.020250130,3,5,0,1,2,11,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,1,11,47,1,9,9,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,1,8,6,16,-123,105,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,1,5,58,1,-10,-6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,1,2,57,2,-13,16,Restricted Area,Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,1,2,19,13,12,137,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,1,1,52,13,-51,120,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,2,11,37,0,5,4,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,3,10,0,19,-169,90,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,3,8,31,7,-71,31,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,3,7,29,25,-50,251,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,3,2,45,23,-237,37,Left Corner 3,Floating Jump shot,3PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,4,8,33,1,-10,5,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,4,6,22,0,-9,1,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400692,1970-01-01 00:00:00.020250201,4,5,27,25,-191,176,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400715,1970-01-01 00:00:00.020250204,1,10,44,18,-186,8,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400715,1970-01-01 00:00:00.020250204,1,7,50,15,6,156,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400715,1970-01-01 00:00:00.020250204,1,6,6,3,-32,10,Restricted Area,Turnaround Bank shot,2PT Field Goal,1,1
-22400715,1970-01-01 00:00:00.020250204,1,0,37,26,-161,214,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400715,1970-01-01 00:00:00.020250204,1,0,1,24,-126,205,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400715,1970-01-01 00:00:00.020250204,2,10,56,2,4,24,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400715,1970-01-01 00:00:00.020250204,2,6,45,1,-7,16,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400715,1970-01-01 00:00:00.020250204,2,0,36,4,0,40,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,1,10,50,26,-223,134,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,1,8,12,4,6,42,In The Paint (Non-RA),Running Dunk Shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,2,9,47,26,-114,243,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,2,9,30,27,-120,248,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,2,9,9,34,-16,343,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,2,8,6,28,-207,203,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,2,7,3,2,0,23,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,2,1,35,2,-9,25,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,3,10,6,2,0,24,Restricted Area,Floating Jump shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,3,7,5,1,-12,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,3,2,23,2,7,29,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,3,0,2,2,5,27,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,4,11,22,14,-87,110,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400731,1970-01-01 00:00:00.020250206,4,1,8,27,-91,258,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,1,6,28,13,-40,126,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,1,6,0,13,-102,94,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,1,1,6,26,53,264,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,2,10,46,3,27,29,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,2,10,18,16,-158,43,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,2,0,49,1,5,12,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,3,8,25,27,-2,271,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,3,7,14,0,-2,4,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,3,1,28,27,-4,273,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400768,1970-01-01 00:00:00.020250210,4,11,33,0,0,0,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1
-22400781,1970-01-01 00:00:00.020250212,1,9,10,25,-172,184,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400781,1970-01-01 00:00:00.020250212,2,10,4,12,-125,4,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400781,1970-01-01 00:00:00.020250212,2,2,16,26,32,268,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400781,1970-01-01 00:00:00.020250212,2,1,49,25,-124,219,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400781,1970-01-01 00:00:00.020250212,3,8,27,23,-230,57,Left Corner 3,Jump Shot,3PT Field Goal,1,1
-22400781,1970-01-01 00:00:00.020250212,3,1,52,3,-34,21,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,1,7,30,1,-16,-7,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,2,10,55,1,-10,9,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,2,8,48,10,62,88,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,2,7,48,1,11,11,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,2,7,30,2,11,20,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,2,2,11,18,-32,184,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,2,0,4,2,2,22,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,3,10,52,3,-36,13,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,3,8,4,28,-151,242,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,3,2,44,22,224,33,Right Corner 3,Jump Shot,3PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,4,9,54,28,6,283,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,4,9,2,29,-131,264,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,4,7,24,17,-92,148,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400796,1970-01-01 00:00:00.020250220,4,6,36,11,-61,94,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,1,10,24,1,0,13,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,1,7,13,2,15,16,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,2,9,27,1,6,8,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,2,8,15,2,21,13,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,2,2,41,1,18,8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,2,2,11,23,238,1,Right Corner 3,Jump Shot,3PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,2,0,55,1,16,5,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,3,10,40,1,-16,6,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,3,6,7,1,10,4,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,4,10,18,1,-17,-1,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400808,1970-01-01 00:00:00.020250222,4,9,37,1,13,15,Restricted Area,Pullup Jump shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,1,10,54,12,-64,106,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,1,9,51,26,-132,232,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,2,2,34,19,174,98,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,3,8,24,0,6,5,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,4,11,46,11,114,32,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,4,8,50,2,-1,25,Restricted Area,Running Alley Oop Layup Shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,4,8,19,4,-33,31,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,4,6,31,27,-162,227,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,4,4,5,2,1,27,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,4,2,25,0,0,0,Restricted Area,Tip Dunk Shot,2PT Field Goal,1,1
-22400835,1970-01-01 00:00:00.020250225,4,0,32,3,-16,26,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,1,9,52,2,7,28,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,1,8,3,29,-58,286,Above the Break 3,Jump Bank Shot,3PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,1,5,48,26,-180,194,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,1,0,11,3,12,29,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,2,9,32,28,-130,251,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,2,8,17,26,-190,181,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,2,0,53,2,-5,23,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,3,10,4,1,7,8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,3,2,41,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,3,1,44,0,7,4,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400849,1970-01-01 00:00:00.020250227,4,1,22,11,38,111,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,1,6,18,26,-82,253,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,1,2,9,17,2,177,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,1,0,3,5,47,25,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,2,11,48,4,-35,31,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,2,9,27,20,9,202,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,2,8,53,12,-75,100,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,2,2,46,18,-27,181,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,3,8,13,26,130,231,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,3,0,48,12,111,61,Mid-Range,Turnaround Jump Shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,4,11,23,3,38,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,4,10,43,5,11,56,In The Paint (Non-RA),Driving Hook Shot,2PT Field Goal,1,1
-22400859,1970-01-01 00:00:00.020250228,4,2,14,6,45,52,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1
-22400874,1970-01-01 00:00:00.020250302,1,9,2,1,-4,13,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22400874,1970-01-01 00:00:00.020250302,2,9,4,12,-67,105,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400874,1970-01-01 00:00:00.020250302,3,9,44,11,45,111,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400874,1970-01-01 00:00:00.020250302,3,9,11,3,29,8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400874,1970-01-01 00:00:00.020250302,3,6,46,2,21,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400874,1970-01-01 00:00:00.020250302,4,7,2,23,233,0,Right Corner 3,Jump Shot,3PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,1,8,34,25,-190,175,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,2,6,51,26,-184,197,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,2,5,29,27,-191,196,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,3,11,14,6,-27,59,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,3,5,42,1,-2,15,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,3,0,6,24,-44,239,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,4,11,10,3,5,31,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,4,10,38,25,55,245,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,4,9,5,2,-5,24,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400890,1970-01-01 00:00:00.020250304,4,8,4,11,39,111,In The Paint (Non-RA),Pullup Jump shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,1,10,49,1,-7,17,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,1,6,9,15,-70,142,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,2,8,8,4,12,46,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,2,7,42,2,22,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,2,6,59,1,-10,14,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,2,2,48,2,9,20,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,2,1,42,4,22,42,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,3,5,33,1,-2,17,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,4,10,41,3,-10,36,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,4,4,28,24,-235,62,Left Corner 3,Jump Shot,3PT Field Goal,1,1
-22400903,1970-01-01 00:00:00.020250306,4,1,51,29,-29,289,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,1,8,47,13,-129,17,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,1,8,20,1,11,3,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,1,1,2,5,40,34,In The Paint (Non-RA),Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,2,8,31,9,-88,27,Mid-Range,Fadeaway Bank shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,2,3,12,2,-22,11,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,2,2,46,17,-140,109,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,2,1,51,14,-145,32,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,3,1,39,1,0,16,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,4,10,25,12,-28,126,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,4,9,47,16,-9,164,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1
-22400918,1970-01-01 00:00:00.020250308,4,7,5,7,-37,67,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1
-22401028,1970-01-01 00:00:00.020250322,1,10,19,2,-6,28,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22401028,1970-01-01 00:00:00.020250322,2,9,6,27,-13,270,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401028,1970-01-01 00:00:00.020250322,3,11,19,3,-4,30,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22401028,1970-01-01 00:00:00.020250322,3,10,30,4,-11,40,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22401028,1970-01-01 00:00:00.020250322,3,1,5,1,-11,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401028,1970-01-01 00:00:00.020250322,4,9,15,1,-10,9,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22401028,1970-01-01 00:00:00.020250322,4,8,2,0,-6,4,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,1,7,51,5,28,44,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,1,1,1,3,5,34,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,2,8,7,7,65,34,In The Paint (Non-RA),Driving Bank Hook Shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,2,1,15,3,4,37,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,3,11,37,14,-47,138,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,3,9,41,1,-16,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,3,6,51,6,-60,31,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,4,6,59,3,-13,29,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401038,1970-01-01 00:00:00.020250324,4,2,35,0,-6,6,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22401055,1970-01-01 00:00:00.020250326,4,11,11,3,29,18,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22401055,1970-01-01 00:00:00.020250326,4,10,37,18,161,84,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22401055,1970-01-01 00:00:00.020250326,4,9,39,1,11,15,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22401055,1970-01-01 00:00:00.020250326,4,0,0,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22401063,1970-01-01 00:00:00.020250327,1,8,45,8,-76,39,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1
-22401063,1970-01-01 00:00:00.020250327,1,6,4,1,10,15,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22401063,1970-01-01 00:00:00.020250327,2,1,52,0,0,0,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1
-22401063,1970-01-01 00:00:00.020250327,2,0,55,5,-11,54,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22401063,1970-01-01 00:00:00.020250327,2,0,32,1,-10,13,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22401063,1970-01-01 00:00:00.020250327,3,10,54,1,18,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401063,1970-01-01 00:00:00.020250327,3,4,49,0,1,6,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1
-22401063,1970-01-01 00:00:00.020250327,4,2,51,1,12,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,1,9,59,24,-228,97,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,1,8,41,1,-11,1,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,2,9,15,27,2,273,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,2,4,14,6,-62,27,In The Paint (Non-RA),Running Pull-Up Jump Shot,2PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,2,0,36,1,10,6,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,2,0,28,1,-4,11,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,3,10,33,9,-85,42,Mid-Range,Turnaround Bank shot,2PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,3,7,38,0,-1,6,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,4,8,20,17,-175,-2,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1
-22401078,1970-01-01 00:00:00.020250329,4,7,33,0,-4,5,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22401096,1970-01-01 00:00:00.020250331,1,6,59,19,-138,144,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22401096,1970-01-01 00:00:00.020250331,2,10,45,28,-162,238,Above the Break 3,Floating Jump shot,3PT Field Goal,1,1
-22401096,1970-01-01 00:00:00.020250331,3,10,53,22,-229,-15,Left Corner 3,Jump Shot,3PT Field Goal,1,1
-22401096,1970-01-01 00:00:00.020250331,3,7,34,3,15,27,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22401096,1970-01-01 00:00:00.020250331,4,7,26,2,21,16,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,2,8,52,25,129,223,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,2,5,48,26,-203,164,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,3,10,20,26,-32,261,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,3,9,17,2,-15,19,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,3,6,47,1,-9,13,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,3,6,6,0,1,5,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,3,2,25,1,-13,9,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,4,7,34,1,-4,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,4,6,14,29,98,273,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401117,1970-01-01 00:00:00.020250403,4,1,51,23,-230,27,Left Corner 3,Jump Shot,3PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,1,11,34,26,-65,257,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,2,9,37,26,148,216,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,2,8,27,15,-69,137,In The Paint (Non-RA),Turnaround Jump Shot,2PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,2,7,26,18,-98,151,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,4,10,50,1,-1,14,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,4,8,58,18,-189,-6,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,4,6,18,2,-22,10,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,4,5,55,1,6,8,Restricted Area,Layup Shot,2PT Field Goal,1,1
-22401126,1970-01-01 00:00:00.020250404,4,4,9,1,7,8,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,1,5,55,15,103,120,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,1,0,6,2,-22,10,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,2,11,47,12,120,-3,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,2,9,4,27,179,207,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,3,8,39,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,3,0,0,12,-60,110,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,4,11,4,15,-154,6,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,4,9,9,2,16,19,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1
-22401135,1970-01-01 00:00:00.020250406,4,6,51,16,-28,158,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1
-22401153,1970-01-01 00:00:00.020250408,2,9,44,5,-46,34,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1
-22401153,1970-01-01 00:00:00.020250408,2,0,29,26,130,234,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401153,1970-01-01 00:00:00.020250408,3,9,41,10,-5,101,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22401153,1970-01-01 00:00:00.020250408,3,9,1,27,201,190,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22401153,1970-01-01 00:00:00.020250408,3,6,44,31,-110,297,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401153,1970-01-01 00:00:00.020250408,4,11,22,7,-29,64,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1
-22401153,1970-01-01 00:00:00.020250408,4,10,31,2,-20,22,Restricted Area,Running Layup Shot,2PT Field Goal,1,1
-22401153,1970-01-01 00:00:00.020250408,4,4,31,11,-39,109,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,2,11,19,0,-9,0,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,2,9,23,0,7,5,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,3,8,49,16,-164,-8,Mid-Range,Running Pull-Up Jump Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,3,7,29,4,38,13,In The Paint (Non-RA),Turnaround Bank Hook Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,3,7,8,0,-5,4,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,4,9,41,1,-13,1,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,4,8,10,2,-23,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,4,7,26,1,-1,15,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,4,6,19,0,-7,2,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,4,4,43,0,5,1,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1
-22401159,1970-01-01 00:00:00.020250409,4,4,4,1,-15,10,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1
-22401185,1970-01-01 00:00:00.020250411,1,11,17,1,12,11,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1
-22401185,1970-01-01 00:00:00.020250411,1,10,51,26,114,241,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22401185,1970-01-01 00:00:00.020250411,1,7,1,20,-141,152,Mid-Range,Jump Shot,2PT Field Goal,1,1
-22401185,1970-01-01 00:00:00.020250411,2,10,55,4,-33,31,In The Paint (Non-RA),Driving Reverse Layup Shot,2PT Field Goal,1,1
-22401185,1970-01-01 00:00:00.020250411,2,7,54,0,-5,6,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1
-22401185,1970-01-01 00:00:00.020250411,2,6,8,2,20,16,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
-22401220,1970-01-01 00:00:00.020241215,1,9,20,0,-5,7,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1
-22401220,1970-01-01 00:00:00.020241215,1,9,1,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22401220,1970-01-01 00:00:00.020241215,1,0,17,26,97,243,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401220,1970-01-01 00:00:00.020241215,3,7,24,27,34,269,Above the Break 3,Jump Shot,3PT Field Goal,1,1
-22401220,1970-01-01 00:00:00.020241215,4,11,8,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1
-22401220,1970-01-01 00:00:00.020241215,4,8,48,26,103,246,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1
-22401220,1970-01-01 00:00:00.020241215,4,1,27,1,-2,14,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1
+GAME_ID,GAME_DATE,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ZONE_BASIC,ACTION_TYPE,SHOT_TYPE,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,LATE_GAME,THREE_POINT_SHOT
+22400015,1970-01-01 00:00:00.020241115,1,8,43,1,-10,4,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400015,1970-01-01 00:00:00.020241115,1,1,18,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22400015,1970-01-01 00:00:00.020241115,2,10,53,3,-12,29,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400015,1970-01-01 00:00:00.020241115,2,7,3,25,-185,176,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400015,1970-01-01 00:00:00.020241115,3,9,31,2,-11,21,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400015,1970-01-01 00:00:00.020241115,4,0,25,2,-5,20,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,1,0
+22400026,1970-01-01 00:00:00.020241119,1,10,15,5,-18,57,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400026,1970-01-01 00:00:00.020241119,1,6,21,1,6,18,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400026,1970-01-01 00:00:00.020241119,2,9,10,19,-188,58,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400026,1970-01-01 00:00:00.020241119,2,0,49,3,4,31,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400026,1970-01-01 00:00:00.020241119,3,8,21,2,-22,19,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400026,1970-01-01 00:00:00.020241119,3,7,23,28,65,280,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400026,1970-01-01 00:00:00.020241119,3,6,27,1,-1,15,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400026,1970-01-01 00:00:00.020241119,4,3,47,18,83,166,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400026,1970-01-01 00:00:00.020241119,4,2,59,12,-47,114,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,1,0
+22400039,1970-01-01 00:00:00.020241126,1,10,36,23,-205,124,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400039,1970-01-01 00:00:00.020241126,1,7,20,19,-183,64,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400039,1970-01-01 00:00:00.020241126,2,8,27,0,2,6,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400039,1970-01-01 00:00:00.020241126,2,1,6,12,56,111,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400039,1970-01-01 00:00:00.020241126,3,9,14,3,-11,28,Restricted Area,Putback Dunk Shot,2PT Field Goal,1,1,0,0
+22400039,1970-01-01 00:00:00.020241126,3,4,36,18,12,186,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400039,1970-01-01 00:00:00.020241126,4,7,12,26,147,216,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400048,1970-01-01 00:00:00.020241129,1,7,0,5,-29,44,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400048,1970-01-01 00:00:00.020241129,2,1,41,1,6,18,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400048,1970-01-01 00:00:00.020241129,3,10,39,9,-97,-2,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400048,1970-01-01 00:00:00.020241129,3,7,32,0,5,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400048,1970-01-01 00:00:00.020241129,4,8,20,14,-100,100,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400062,1970-01-01 00:00:00.020241022,1,8,56,3,16,29,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400062,1970-01-01 00:00:00.020241022,1,8,35,2,1,20,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400062,1970-01-01 00:00:00.020241022,2,8,33,4,4,47,In The Paint (Non-RA),Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400062,1970-01-01 00:00:00.020241022,2,2,14,2,-15,16,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22400062,1970-01-01 00:00:00.020241022,4,11,34,0,-7,-5,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400062,1970-01-01 00:00:00.020241022,4,9,11,2,-11,20,Restricted Area,Running Alley Oop Layup Shot,2PT Field Goal,1,1,0,0
+22400062,1970-01-01 00:00:00.020241022,4,1,34,25,-110,226,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,1,1
+22400085,1970-01-01 00:00:00.020241025,1,0,29,2,9,18,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400085,1970-01-01 00:00:00.020241025,2,2,41,2,-10,22,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400085,1970-01-01 00:00:00.020241025,3,9,47,28,-1,289,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400085,1970-01-01 00:00:00.020241025,3,9,20,27,-1,272,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400085,1970-01-01 00:00:00.020241025,3,7,21,1,0,16,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400085,1970-01-01 00:00:00.020241025,3,2,18,1,9,9,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400085,1970-01-01 00:00:00.020241025,4,11,14,11,-110,8,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400096,1970-01-01 00:00:00.020241026,1,8,10,2,-15,19,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400096,1970-01-01 00:00:00.020241026,2,11,36,14,109,99,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400096,1970-01-01 00:00:00.020241026,2,9,59,19,11,198,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1,0,0
+22400096,1970-01-01 00:00:00.020241026,2,9,27,13,132,30,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400096,1970-01-01 00:00:00.020241026,3,3,31,27,-98,257,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400096,1970-01-01 00:00:00.020241026,3,1,44,2,-20,17,Restricted Area,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400096,1970-01-01 00:00:00.020241026,4,11,22,28,-15,284,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1,0,1
+22400096,1970-01-01 00:00:00.020241026,4,10,49,16,81,148,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400096,1970-01-01 00:00:00.020241026,4,10,28,3,-27,26,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22400096,1970-01-01 00:00:00.020241026,4,9,58,28,129,253,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400096,1970-01-01 00:00:00.020241026,4,8,46,27,1,274,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400096,1970-01-01 00:00:00.020241026,4,8,23,2,-21,21,Restricted Area,Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400111,1970-01-01 00:00:00.020241028,1,1,9,29,-51,291,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400111,1970-01-01 00:00:00.020241028,3,2,45,16,-123,117,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400111,1970-01-01 00:00:00.020241028,4,1,58,24,-138,197,Above the Break 3,Jump Shot,3PT Field Goal,1,1,1,1
+22400118,1970-01-01 00:00:00.020241030,1,11,15,0,4,7,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400118,1970-01-01 00:00:00.020241030,1,0,41,27,-169,212,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,0,1
+22400118,1970-01-01 00:00:00.020241030,2,8,40,1,-4,15,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400118,1970-01-01 00:00:00.020241030,2,2,53,1,10,2,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400118,1970-01-01 00:00:00.020241030,3,10,40,0,2,9,Restricted Area,Dunk Shot,2PT Field Goal,1,1,0,0
+22400118,1970-01-01 00:00:00.020241030,3,8,40,0,9,1,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22400118,1970-01-01 00:00:00.020241030,3,8,24,0,0,-5,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400118,1970-01-01 00:00:00.020241030,3,3,55,1,9,-6,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400118,1970-01-01 00:00:00.020241030,3,0,12,0,1,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400137,1970-01-01 00:00:00.020241101,1,11,43,23,-235,-5,Left Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400137,1970-01-01 00:00:00.020241101,1,8,30,25,-40,247,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400137,1970-01-01 00:00:00.020241101,1,8,14,0,-5,3,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400137,1970-01-01 00:00:00.020241101,1,1,56,1,-9,8,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400137,1970-01-01 00:00:00.020241101,1,0,7,26,2,268,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400137,1970-01-01 00:00:00.020241101,2,11,27,0,-6,5,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400137,1970-01-01 00:00:00.020241101,2,8,44,2,-26,6,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400137,1970-01-01 00:00:00.020241101,3,1,27,27,-27,275,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400137,1970-01-01 00:00:00.020241101,4,10,30,26,81,254,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400156,1970-01-01 00:00:00.020241104,1,5,34,2,-20,-10,Restricted Area,Running Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400156,1970-01-01 00:00:00.020241104,2,9,49,1,18,5,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400156,1970-01-01 00:00:00.020241104,2,1,57,1,-7,15,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400156,1970-01-01 00:00:00.020241104,2,1,25,1,-13,0,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400156,1970-01-01 00:00:00.020241104,2,0,2,25,-119,221,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400156,1970-01-01 00:00:00.020241104,3,0,58,13,124,55,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400156,1970-01-01 00:00:00.020241104,4,6,36,1,13,8,Restricted Area,Floating Jump shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,1,7,26,25,-22,258,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400174,1970-01-01 00:00:00.020241106,1,1,10,25,-142,209,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400174,1970-01-01 00:00:00.020241106,2,11,11,2,-18,15,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,2,9,38,27,-88,262,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400174,1970-01-01 00:00:00.020241106,2,4,35,3,-33,17,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,2,3,35,11,-13,110,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,2,3,5,1,12,12,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,2,1,2,8,42,73,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,2,0,44,3,25,20,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,3,11,9,10,-104,5,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,3,9,28,25,38,251,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400174,1970-01-01 00:00:00.020241106,3,9,1,24,29,247,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400174,1970-01-01 00:00:00.020241106,4,9,23,0,-7,0,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400174,1970-01-01 00:00:00.020241106,4,8,42,23,-229,41,Left Corner 3,Running Jump Shot,3PT Field Goal,1,1,0,1
+22400174,1970-01-01 00:00:00.020241106,4,5,11,1,-13,-8,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400195,1970-01-01 00:00:00.020241108,2,9,6,3,6,31,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400195,1970-01-01 00:00:00.020241108,2,2,40,2,27,9,Restricted Area,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400195,1970-01-01 00:00:00.020241108,2,1,2,12,64,111,In The Paint (Non-RA),Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400195,1970-01-01 00:00:00.020241108,3,10,17,5,31,51,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400195,1970-01-01 00:00:00.020241108,3,9,46,3,20,27,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400195,1970-01-01 00:00:00.020241108,3,0,21,26,18,267,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400195,1970-01-01 00:00:00.020241108,4,10,35,8,-75,48,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1,0,0
+22400195,1970-01-01 00:00:00.020241108,4,7,12,25,-20,256,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400195,1970-01-01 00:00:00.020241108,4,3,16,12,-124,12,Mid-Range,Turnaround Jump Shot,2PT Field Goal,1,1,1,0
+22400211,1970-01-01 00:00:00.020241110,2,8,24,2,20,20,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400211,1970-01-01 00:00:00.020241110,3,11,19,0,1,8,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400211,1970-01-01 00:00:00.020241110,3,7,31,3,-9,30,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400211,1970-01-01 00:00:00.020241110,3,1,50,7,-2,79,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400211,1970-01-01 00:00:00.020241110,3,1,18,3,2,31,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1,0,0
+22400211,1970-01-01 00:00:00.020241110,4,3,44,1,7,13,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,1,9,15,3,-13,33,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,1,6,33,2,-12,27,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,1,0,51,24,157,191,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400225,1970-01-01 00:00:00.020241113,1,0,0,30,110,283,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400225,1970-01-01 00:00:00.020241113,2,7,47,27,-219,163,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400225,1970-01-01 00:00:00.020241113,2,2,33,16,-21,167,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,2,1,13,28,-140,248,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400225,1970-01-01 00:00:00.020241113,3,9,13,1,-7,-8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,3,6,25,2,2,20,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,4,9,37,0,6,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,4,8,27,8,40,75,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,4,4,19,1,15,13,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400225,1970-01-01 00:00:00.020241113,4,3,1,1,13,8,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,1,0
+22400231,1970-01-01 00:00:00.020241116,2,11,26,3,17,27,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400231,1970-01-01 00:00:00.020241116,2,8,13,1,1,11,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1,0,0
+22400231,1970-01-01 00:00:00.020241116,2,3,13,4,32,29,In The Paint (Non-RA),Turnaround Bank Hook Shot,2PT Field Goal,1,1,0,0
+22400231,1970-01-01 00:00:00.020241116,2,0,51,4,-28,31,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400231,1970-01-01 00:00:00.020241116,4,11,10,6,-67,7,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400231,1970-01-01 00:00:00.020241116,4,3,52,3,29,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400231,1970-01-01 00:00:00.020241116,4,1,51,28,-145,248,Above the Break 3,Jump Shot,3PT Field Goal,1,1,1,1
+22400231,1970-01-01 00:00:00.020241116,4,0,37,26,45,258,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,1,1
+22400263,1970-01-01 00:00:00.020241121,1,11,45,2,17,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400263,1970-01-01 00:00:00.020241121,1,7,41,27,195,195,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400263,1970-01-01 00:00:00.020241121,1,0,35,14,67,125,In The Paint (Non-RA),Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400263,1970-01-01 00:00:00.020241121,2,11,23,3,5,32,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400263,1970-01-01 00:00:00.020241121,2,7,38,4,21,43,In The Paint (Non-RA),Hook Shot,2PT Field Goal,1,1,0,0
+22400263,1970-01-01 00:00:00.020241121,3,11,33,26,-23,268,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400263,1970-01-01 00:00:00.020241121,3,1,34,4,-11,42,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1,0,0
+22400263,1970-01-01 00:00:00.020241121,4,8,27,27,124,246,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400263,1970-01-01 00:00:00.020241121,4,7,47,27,2,275,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400263,1970-01-01 00:00:00.020241121,4,7,23,30,-64,294,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400263,1970-01-01 00:00:00.020241121,4,6,10,3,-11,28,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400263,1970-01-01 00:00:00.020241121,4,1,37,1,1,11,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1,1,0
+22400270,1970-01-01 00:00:00.020241123,1,9,6,0,-5,-4,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400270,1970-01-01 00:00:00.020241123,1,0,43,15,121,103,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400270,1970-01-01 00:00:00.020241123,2,11,32,1,-5,19,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400270,1970-01-01 00:00:00.020241123,2,8,25,2,10,20,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400270,1970-01-01 00:00:00.020241123,2,8,2,27,138,234,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400270,1970-01-01 00:00:00.020241123,3,5,56,3,7,31,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22400270,1970-01-01 00:00:00.020241123,4,9,25,12,-121,22,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400296,1970-01-01 00:00:00.020241127,1,10,50,0,-6,3,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400296,1970-01-01 00:00:00.020241127,2,1,30,1,-5,14,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400296,1970-01-01 00:00:00.020241127,3,10,55,1,16,8,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400296,1970-01-01 00:00:00.020241127,3,0,46,1,12,5,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400296,1970-01-01 00:00:00.020241127,4,8,36,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22400296,1970-01-01 00:00:00.020241127,4,6,43,2,-22,4,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400296,1970-01-01 00:00:00.020241127,4,6,22,8,-7,84,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400296,1970-01-01 00:00:00.020241127,4,4,36,13,131,-1,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,1,9,36,22,123,183,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,1,5,38,2,-21,16,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,2,11,47,12,-124,17,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,2,11,12,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,2,1,4,9,32,93,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,3,9,17,7,-65,39,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,3,4,24,1,10,5,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,4,7,59,13,-87,101,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,4,6,55,0,-5,-1,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,4,6,15,1,13,5,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,4,5,33,9,-76,55,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400311,1970-01-01 00:00:00.020241201,4,0,41,9,-61,70,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,1,0
+22400318,1970-01-01 00:00:00.020241202,1,10,13,1,7,15,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22400318,1970-01-01 00:00:00.020241202,2,1,25,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22400318,1970-01-01 00:00:00.020241202,3,4,40,17,102,138,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400318,1970-01-01 00:00:00.020241202,4,11,24,2,25,15,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,1,11,21,1,7,17,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,1,10,14,18,-109,152,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,1,9,47,1,-11,15,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,1,0,50,1,-2,11,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,1,0,25,4,0,48,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,2,9,25,0,4,5,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,2,6,50,13,137,21,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,2,5,49,1,11,6,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,3,10,36,1,7,10,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,3,8,55,26,93,251,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400321,1970-01-01 00:00:00.020241204,3,8,21,16,-87,137,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400321,1970-01-01 00:00:00.020241204,4,9,9,0,-9,1,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400334,1970-01-01 00:00:00.020241206,1,10,31,24,-5,247,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400334,1970-01-01 00:00:00.020241206,1,0,44,24,158,193,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400334,1970-01-01 00:00:00.020241206,2,11,3,0,5,-1,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400334,1970-01-01 00:00:00.020241206,2,7,41,12,-120,5,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400334,1970-01-01 00:00:00.020241206,2,5,28,24,-53,237,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400334,1970-01-01 00:00:00.020241206,2,5,3,0,-6,-5,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400334,1970-01-01 00:00:00.020241206,3,9,57,26,-138,222,Above the Break 3,Floating Jump shot,3PT Field Goal,1,1,0,1
+22400334,1970-01-01 00:00:00.020241206,3,1,43,12,124,-4,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400334,1970-01-01 00:00:00.020241206,4,10,48,1,9,16,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22400334,1970-01-01 00:00:00.020241206,4,9,9,6,-6,62,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400334,1970-01-01 00:00:00.020241206,4,4,12,25,124,228,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400334,1970-01-01 00:00:00.020241206,4,1,55,18,-109,146,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,1,0
+22400334,1970-01-01 00:00:00.020241206,4,0,12,2,-10,27,Restricted Area,Layup Shot,2PT Field Goal,1,1,1,0
+22400334,1970-01-01 00:00:00.020241206,5,2,13,24,-230,92,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400372,1970-01-01 00:00:00.020241219,1,8,34,26,-13,264,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400372,1970-01-01 00:00:00.020241219,2,10,6,5,36,36,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400372,1970-01-01 00:00:00.020241219,2,2,17,3,26,21,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400372,1970-01-01 00:00:00.020241219,2,0,31,5,40,36,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400372,1970-01-01 00:00:00.020241219,3,9,7,3,-34,10,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400372,1970-01-01 00:00:00.020241219,3,1,43,3,-4,38,Restricted Area,Running Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400372,1970-01-01 00:00:00.020241219,4,3,42,2,-18,15,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400372,1970-01-01 00:00:00.020241219,4,0,40,2,-13,25,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,1,0
+22400376,1970-01-01 00:00:00.020241221,1,8,43,4,11,44,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,1,7,14,4,9,44,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,1,1,20,5,-51,-5,In The Paint (Non-RA),Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,1,0,54,5,-54,5,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,1,0,0,17,-99,141,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,2,11,32,19,20,197,Mid-Range,Driving Hook Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,2,10,6,5,26,47,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,2,9,8,8,48,74,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,2,8,14,3,-9,29,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,2,1,20,7,50,49,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,4,11,46,14,109,95,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400376,1970-01-01 00:00:00.020241221,4,11,12,27,-145,229,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400376,1970-01-01 00:00:00.020241221,4,3,42,14,-3,143,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400404,1970-01-01 00:00:00.020241223,1,8,2,1,-12,1,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400404,1970-01-01 00:00:00.020241223,1,6,40,25,126,226,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400404,1970-01-01 00:00:00.020241223,1,2,30,3,28,15,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400404,1970-01-01 00:00:00.020241223,3,8,44,28,86,272,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400404,1970-01-01 00:00:00.020241223,3,0,40,2,12,18,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22400404,1970-01-01 00:00:00.020241223,4,11,34,22,-1,227,Mid-Range,Running Pull-Up Jump Shot,2PT Field Goal,1,1,0,0
+22400404,1970-01-01 00:00:00.020241223,4,10,26,21,-20,218,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400404,1970-01-01 00:00:00.020241223,4,4,5,1,10,15,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400404,1970-01-01 00:00:00.020241223,4,1,46,12,-113,49,Mid-Range,Fadeaway Bank shot,2PT Field Goal,1,1,1,0
+22400404,1970-01-01 00:00:00.020241223,4,0,46,2,-21,15,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,1,0
+22400408,1970-01-01 00:00:00.020241225,1,11,4,5,-1,57,In The Paint (Non-RA),Hook Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,1,10,34,3,32,17,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,1,6,37,3,-26,15,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,1,2,1,6,-43,55,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,2,10,42,27,174,218,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400408,1970-01-01 00:00:00.020241225,2,2,12,3,-34,19,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,2,1,18,18,-42,183,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,3,9,50,5,-49,18,In The Paint (Non-RA),Layup Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,3,5,18,4,-26,33,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,3,4,50,11,-37,105,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,4,9,17,5,-31,47,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400408,1970-01-01 00:00:00.020241225,4,2,28,27,-1,277,Above the Break 3,Jump Shot,3PT Field Goal,1,1,1,1
+22400454,1970-01-01 00:00:00.020241231,1,10,15,2,-5,25,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22400454,1970-01-01 00:00:00.020241231,1,9,45,25,-200,158,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400454,1970-01-01 00:00:00.020241231,1,8,19,27,103,251,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400454,1970-01-01 00:00:00.020241231,1,0,34,7,-45,64,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400454,1970-01-01 00:00:00.020241231,2,6,46,0,6,6,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400454,1970-01-01 00:00:00.020241231,3,8,55,1,-11,8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400454,1970-01-01 00:00:00.020241231,4,9,8,2,11,19,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400454,1970-01-01 00:00:00.020241231,4,3,21,0,5,-2,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,1,0
+22400454,1970-01-01 00:00:00.020241231,4,2,50,22,-221,-10,Left Corner 3,Running Jump Shot,3PT Field Goal,1,1,1,1
+22400468,1970-01-01 00:00:00.020250102,1,10,1,1,6,11,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400468,1970-01-01 00:00:00.020250102,1,0,55,0,-7,5,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400468,1970-01-01 00:00:00.020250102,2,10,55,1,-7,13,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400468,1970-01-01 00:00:00.020250102,2,9,46,26,-159,208,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,0,1
+22400468,1970-01-01 00:00:00.020250102,2,3,17,27,205,190,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400468,1970-01-01 00:00:00.020250102,2,2,12,1,1,13,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22400468,1970-01-01 00:00:00.020250102,2,1,51,30,-37,299,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400468,1970-01-01 00:00:00.020250102,3,9,31,28,-140,246,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400468,1970-01-01 00:00:00.020250102,3,8,41,32,-158,279,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1,0,1
+22400468,1970-01-01 00:00:00.020250102,3,7,32,23,227,59,Right Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400468,1970-01-01 00:00:00.020250102,4,9,44,4,-37,32,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400468,1970-01-01 00:00:00.020250102,4,6,46,14,-142,42,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400468,1970-01-01 00:00:00.020250102,4,2,9,1,-5,17,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,1,0
+22400468,1970-01-01 00:00:00.020250102,4,0,58,26,-153,222,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,1,1
+22400468,1970-01-01 00:00:00.020250102,4,0,17,2,17,20,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,1,0
+22400477,1970-01-01 00:00:00.020250103,1,8,28,3,-10,29,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,1,6,57,1,0,14,Restricted Area,Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,1,0,55,0,4,9,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,2,10,50,1,-9,9,Restricted Area,Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,2,9,0,11,-59,104,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,2,1,36,15,124,101,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,3,9,14,28,-37,283,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400477,1970-01-01 00:00:00.020250103,3,8,42,22,-12,228,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,3,1,27,20,-130,162,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,4,7,45,3,10,33,Restricted Area,Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,4,7,14,27,-108,257,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400477,1970-01-01 00:00:00.020250103,4,6,38,15,-150,39,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400477,1970-01-01 00:00:00.020250103,4,5,58,17,-172,39,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400491,1970-01-01 00:00:00.020250105,1,6,16,6,-58,34,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1,0,0
+22400491,1970-01-01 00:00:00.020250105,2,9,41,8,-75,35,In The Paint (Non-RA),Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400491,1970-01-01 00:00:00.020250105,3,9,39,25,-194,162,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400491,1970-01-01 00:00:00.020250105,3,8,6,9,87,34,Mid-Range,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400491,1970-01-01 00:00:00.020250105,3,7,31,30,-138,275,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400491,1970-01-01 00:00:00.020250105,3,4,51,25,202,148,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400491,1970-01-01 00:00:00.020250105,3,4,19,26,-161,205,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400491,1970-01-01 00:00:00.020250105,4,0,8,6,65,22,In The Paint (Non-RA),Driving Finger Roll Layup Shot,2PT Field Goal,1,1,1,0
+22400504,1970-01-01 00:00:00.020250107,1,8,6,1,15,8,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400504,1970-01-01 00:00:00.020250107,1,6,18,0,-7,4,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400504,1970-01-01 00:00:00.020250107,1,0,17,26,86,255,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,0,1
+22400504,1970-01-01 00:00:00.020250107,3,11,28,15,-148,42,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400504,1970-01-01 00:00:00.020250107,3,9,28,0,-4,4,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400504,1970-01-01 00:00:00.020250107,4,9,0,11,34,110,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400524,1970-01-01 00:00:00.020250219,1,10,17,6,-13,60,In The Paint (Non-RA),Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400524,1970-01-01 00:00:00.020250219,1,9,44,25,-115,232,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400524,1970-01-01 00:00:00.020250219,1,9,1,30,-133,269,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1,0,1
+22400524,1970-01-01 00:00:00.020250219,2,10,5,19,176,89,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400524,1970-01-01 00:00:00.020250219,4,8,45,8,37,75,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400524,1970-01-01 00:00:00.020250219,4,8,24,4,-11,40,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1,0,0
+22400524,1970-01-01 00:00:00.020250219,4,7,17,3,23,29,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400524,1970-01-01 00:00:00.020250219,4,6,48,7,19,69,In The Paint (Non-RA),Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400524,1970-01-01 00:00:00.020250219,4,6,17,26,-124,236,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,0,1
+22400524,1970-01-01 00:00:00.020250219,4,0,6,28,92,269,Above the Break 3,Jump Shot,3PT Field Goal,1,1,1,1
+22400552,1970-01-01 00:00:00.020250113,1,7,52,26,123,235,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400552,1970-01-01 00:00:00.020250113,2,11,41,17,58,167,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400552,1970-01-01 00:00:00.020250113,2,10,35,26,-192,188,Above the Break 3,Floating Jump shot,3PT Field Goal,1,1,0,1
+22400552,1970-01-01 00:00:00.020250113,2,7,39,1,9,15,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400552,1970-01-01 00:00:00.020250113,3,6,46,6,58,30,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400552,1970-01-01 00:00:00.020250113,4,11,14,2,16,15,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400552,1970-01-01 00:00:00.020250113,4,2,35,2,10,24,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,1,0
+22400570,1970-01-01 00:00:00.020250115,1,9,0,3,28,24,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22400570,1970-01-01 00:00:00.020250115,2,11,49,6,-8,61,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400570,1970-01-01 00:00:00.020250115,2,2,39,4,-22,44,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400570,1970-01-01 00:00:00.020250115,3,7,22,25,-224,116,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1,0,1
+22400570,1970-01-01 00:00:00.020250115,3,6,40,24,231,70,Right Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400570,1970-01-01 00:00:00.020250115,4,10,8,5,-33,46,In The Paint (Non-RA),Running Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22400570,1970-01-01 00:00:00.020250115,4,3,25,27,89,260,Above the Break 3,Jump Shot,3PT Field Goal,1,1,1,1
+22400570,1970-01-01 00:00:00.020250115,4,2,49,15,-81,134,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,1,0
+22400570,1970-01-01 00:00:00.020250115,4,1,52,18,-181,52,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,1,0
+22400585,1970-01-01 00:00:00.020250117,1,7,1,1,-13,14,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400585,1970-01-01 00:00:00.020250117,1,1,33,26,-96,243,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,0,1
+22400585,1970-01-01 00:00:00.020250117,1,0,2,25,72,242,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,0,1
+22400585,1970-01-01 00:00:00.020250117,2,9,31,1,6,19,Restricted Area,Running Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400585,1970-01-01 00:00:00.020250117,2,8,58,2,16,19,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400585,1970-01-01 00:00:00.020250117,3,7,56,4,-11,41,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400585,1970-01-01 00:00:00.020250117,3,7,9,11,118,17,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400585,1970-01-01 00:00:00.020250117,3,0,47,3,-11,31,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400585,1970-01-01 00:00:00.020250117,4,11,44,11,17,109,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400585,1970-01-01 00:00:00.020250117,4,9,33,27,-86,256,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400585,1970-01-01 00:00:00.020250117,4,6,47,28,-37,278,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400585,1970-01-01 00:00:00.020250117,4,2,32,2,11,25,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,1,0
+22400596,1970-01-01 00:00:00.020250119,1,8,51,23,205,124,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400596,1970-01-01 00:00:00.020250119,1,8,22,25,53,247,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400596,1970-01-01 00:00:00.020250119,1,6,9,1,10,0,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400596,1970-01-01 00:00:00.020250119,2,8,43,0,-2,3,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400596,1970-01-01 00:00:00.020250119,3,8,18,13,-23,136,In The Paint (Non-RA),Jump Shot,2PT Field Goal,1,1,0,0
+22400596,1970-01-01 00:00:00.020250119,3,7,34,3,20,25,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400596,1970-01-01 00:00:00.020250119,3,1,54,13,21,136,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400596,1970-01-01 00:00:00.020250119,3,0,3,6,-54,42,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400596,1970-01-01 00:00:00.020250119,4,3,2,12,-16,125,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,1,0
+22400610,1970-01-01 00:00:00.020250121,1,7,41,3,-26,19,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400610,1970-01-01 00:00:00.020250121,1,1,16,5,-34,47,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1,0,0
+22400610,1970-01-01 00:00:00.020250121,2,11,30,26,222,142,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400610,1970-01-01 00:00:00.020250121,2,8,2,6,44,43,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400610,1970-01-01 00:00:00.020250121,2,6,31,0,-2,1,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22400610,1970-01-01 00:00:00.020250121,2,6,5,1,9,14,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400610,1970-01-01 00:00:00.020250121,3,10,31,27,-103,257,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400610,1970-01-01 00:00:00.020250121,3,7,2,2,13,17,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,1,10,42,1,4,15,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,1,2,14,1,9,6,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,1,1,40,6,-61,-17,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,1,0,8,1,15,4,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,2,7,53,16,-32,162,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,2,7,24,2,16,16,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,4,11,0,18,-41,178,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,4,9,57,18,-4,180,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400629,1970-01-01 00:00:00.020250123,4,8,21,5,-35,46,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,1,6,40,19,172,100,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,1,6,10,6,59,16,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,1,1,32,7,12,71,In The Paint (Non-RA),Turnaround Jump Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,2,8,20,6,50,47,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,2,1,17,9,-98,18,Mid-Range,Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,3,9,9,4,34,29,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,3,7,35,4,-36,28,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,4,11,7,11,-65,90,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,4,9,58,4,-38,29,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,4,8,52,4,37,28,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1,0,0
+22400644,1970-01-01 00:00:00.020250125,4,2,35,2,-5,20,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1,1,0
+22400644,1970-01-01 00:00:00.020250125,4,0,33,5,-34,41,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,1,0
+22400648,1970-01-01 00:00:00.020250127,1,11,15,0,7,6,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400648,1970-01-01 00:00:00.020250127,1,9,23,2,-20,9,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400648,1970-01-01 00:00:00.020250127,2,9,27,6,-69,11,In The Paint (Non-RA),Turnaround Hook Shot,2PT Field Goal,1,1,0,0
+22400648,1970-01-01 00:00:00.020250127,3,11,24,1,7,8,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400648,1970-01-01 00:00:00.020250127,3,9,15,26,-50,258,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400648,1970-01-01 00:00:00.020250127,3,5,48,12,-32,123,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400648,1970-01-01 00:00:00.020250127,3,0,32,2,16,12,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400648,1970-01-01 00:00:00.020250127,4,10,34,11,-78,91,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400648,1970-01-01 00:00:00.020250127,4,4,0,2,7,22,Restricted Area,Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,1,10,13,1,-15,12,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,1,9,1,1,1,17,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,2,2,55,1,1,11,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,2,0,14,8,-86,6,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,3,10,19,20,25,199,Mid-Range,Turnaround Jump Shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,4,11,20,19,65,180,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,4,9,40,1,12,8,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,4,8,54,10,-11,105,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400660,1970-01-01 00:00:00.020250128,4,7,13,25,-77,247,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400660,1970-01-01 00:00:00.020250128,4,6,34,1,12,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400674,1970-01-01 00:00:00.020250130,1,10,34,17,-36,176,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400674,1970-01-01 00:00:00.020250130,1,5,26,31,-107,293,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400674,1970-01-01 00:00:00.020250130,1,1,50,1,1,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400674,1970-01-01 00:00:00.020250130,1,1,21,2,-1,21,Restricted Area,Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400674,1970-01-01 00:00:00.020250130,2,6,59,1,-17,9,Restricted Area,Running Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22400674,1970-01-01 00:00:00.020250130,2,1,53,12,120,-2,Mid-Range,Running Jump Shot,2PT Field Goal,1,1,0,0
+22400674,1970-01-01 00:00:00.020250130,3,9,1,10,-66,76,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400674,1970-01-01 00:00:00.020250130,3,8,12,15,-159,5,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400674,1970-01-01 00:00:00.020250130,3,5,0,1,2,11,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,1,11,47,1,9,9,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,1,8,6,16,-123,105,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,1,5,58,1,-10,-6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,1,2,57,2,-13,16,Restricted Area,Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,1,2,19,13,12,137,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,1,1,52,13,-51,120,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,2,11,37,0,5,4,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,3,10,0,19,-169,90,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,3,8,31,7,-71,31,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,3,7,29,25,-50,251,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400692,1970-01-01 00:00:00.020250201,3,2,45,23,-237,37,Left Corner 3,Floating Jump shot,3PT Field Goal,1,1,0,1
+22400692,1970-01-01 00:00:00.020250201,4,8,33,1,-10,5,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,4,6,22,0,-9,1,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400692,1970-01-01 00:00:00.020250201,4,5,27,25,-191,176,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400715,1970-01-01 00:00:00.020250204,1,10,44,18,-186,8,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400715,1970-01-01 00:00:00.020250204,1,7,50,15,6,156,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400715,1970-01-01 00:00:00.020250204,1,6,6,3,-32,10,Restricted Area,Turnaround Bank shot,2PT Field Goal,1,1,0,0
+22400715,1970-01-01 00:00:00.020250204,1,0,37,26,-161,214,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400715,1970-01-01 00:00:00.020250204,1,0,1,24,-126,205,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,0,1
+22400715,1970-01-01 00:00:00.020250204,2,10,56,2,4,24,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400715,1970-01-01 00:00:00.020250204,2,6,45,1,-7,16,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400715,1970-01-01 00:00:00.020250204,2,0,36,4,0,40,In The Paint (Non-RA),Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,1,10,50,26,-223,134,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400731,1970-01-01 00:00:00.020250206,1,8,12,4,6,42,In The Paint (Non-RA),Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,2,9,47,26,-114,243,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400731,1970-01-01 00:00:00.020250206,2,9,30,27,-120,248,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400731,1970-01-01 00:00:00.020250206,2,9,9,34,-16,343,Above the Break 3,Running Pull-Up Jump Shot,3PT Field Goal,1,1,0,1
+22400731,1970-01-01 00:00:00.020250206,2,8,6,28,-207,203,Above the Break 3,Step Back Jump shot,3PT Field Goal,1,1,0,1
+22400731,1970-01-01 00:00:00.020250206,2,7,3,2,0,23,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,2,1,35,2,-9,25,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,3,10,6,2,0,24,Restricted Area,Floating Jump shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,3,7,5,1,-12,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,3,2,23,2,7,29,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,3,0,2,2,5,27,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,4,11,22,14,-87,110,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400731,1970-01-01 00:00:00.020250206,4,1,8,27,-91,258,Above the Break 3,Jump Shot,3PT Field Goal,1,1,1,1
+22400768,1970-01-01 00:00:00.020250210,1,6,28,13,-40,126,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400768,1970-01-01 00:00:00.020250210,1,6,0,13,-102,94,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400768,1970-01-01 00:00:00.020250210,1,1,6,26,53,264,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400768,1970-01-01 00:00:00.020250210,2,10,46,3,27,29,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400768,1970-01-01 00:00:00.020250210,2,10,18,16,-158,43,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400768,1970-01-01 00:00:00.020250210,2,0,49,1,5,12,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400768,1970-01-01 00:00:00.020250210,3,8,25,27,-2,271,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400768,1970-01-01 00:00:00.020250210,3,7,14,0,-2,4,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400768,1970-01-01 00:00:00.020250210,3,1,28,27,-4,273,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400768,1970-01-01 00:00:00.020250210,4,11,33,0,0,0,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1,0,0
+22400781,1970-01-01 00:00:00.020250212,1,9,10,25,-172,184,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400781,1970-01-01 00:00:00.020250212,2,10,4,12,-125,4,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400781,1970-01-01 00:00:00.020250212,2,2,16,26,32,268,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400781,1970-01-01 00:00:00.020250212,2,1,49,25,-124,219,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400781,1970-01-01 00:00:00.020250212,3,8,27,23,-230,57,Left Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400781,1970-01-01 00:00:00.020250212,3,1,52,3,-34,21,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,1,7,30,1,-16,-7,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,2,10,55,1,-10,9,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,2,8,48,10,62,88,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,2,7,48,1,11,11,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,2,7,30,2,11,20,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,2,2,11,18,-32,184,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,2,0,4,2,2,22,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,3,10,52,3,-36,13,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,3,8,4,28,-151,242,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1,0,1
+22400796,1970-01-01 00:00:00.020250220,3,2,44,22,224,33,Right Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400796,1970-01-01 00:00:00.020250220,4,9,54,28,6,283,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400796,1970-01-01 00:00:00.020250220,4,9,2,29,-131,264,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400796,1970-01-01 00:00:00.020250220,4,7,24,17,-92,148,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400796,1970-01-01 00:00:00.020250220,4,6,36,11,-61,94,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,1,10,24,1,0,13,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,1,7,13,2,15,16,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,2,9,27,1,6,8,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,2,8,15,2,21,13,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,2,2,41,1,18,8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,2,2,11,23,238,1,Right Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400808,1970-01-01 00:00:00.020250222,2,0,55,1,16,5,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,3,10,40,1,-16,6,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,3,6,7,1,10,4,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,4,10,18,1,-17,-1,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400808,1970-01-01 00:00:00.020250222,4,9,37,1,13,15,Restricted Area,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400835,1970-01-01 00:00:00.020250225,1,10,54,12,-64,106,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400835,1970-01-01 00:00:00.020250225,1,9,51,26,-132,232,Above the Break 3,Running Jump Shot,3PT Field Goal,1,1,0,1
+22400835,1970-01-01 00:00:00.020250225,2,2,34,19,174,98,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400835,1970-01-01 00:00:00.020250225,3,8,24,0,6,5,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400835,1970-01-01 00:00:00.020250225,4,11,46,11,114,32,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400835,1970-01-01 00:00:00.020250225,4,8,50,2,-1,25,Restricted Area,Running Alley Oop Layup Shot,2PT Field Goal,1,1,0,0
+22400835,1970-01-01 00:00:00.020250225,4,8,19,4,-33,31,In The Paint (Non-RA),Driving Floating Bank Jump Shot,2PT Field Goal,1,1,0,0
+22400835,1970-01-01 00:00:00.020250225,4,6,31,27,-162,227,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400835,1970-01-01 00:00:00.020250225,4,4,5,2,1,27,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400835,1970-01-01 00:00:00.020250225,4,2,25,0,0,0,Restricted Area,Tip Dunk Shot,2PT Field Goal,1,1,1,0
+22400835,1970-01-01 00:00:00.020250225,4,0,32,3,-16,26,Restricted Area,Layup Shot,2PT Field Goal,1,1,1,0
+22400849,1970-01-01 00:00:00.020250227,1,9,52,2,7,28,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400849,1970-01-01 00:00:00.020250227,1,8,3,29,-58,286,Above the Break 3,Jump Bank Shot,3PT Field Goal,1,1,0,1
+22400849,1970-01-01 00:00:00.020250227,1,5,48,26,-180,194,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400849,1970-01-01 00:00:00.020250227,1,0,11,3,12,29,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400849,1970-01-01 00:00:00.020250227,2,9,32,28,-130,251,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400849,1970-01-01 00:00:00.020250227,2,8,17,26,-190,181,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400849,1970-01-01 00:00:00.020250227,2,0,53,2,-5,23,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22400849,1970-01-01 00:00:00.020250227,3,10,4,1,7,8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400849,1970-01-01 00:00:00.020250227,3,2,41,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22400849,1970-01-01 00:00:00.020250227,3,1,44,0,7,4,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400849,1970-01-01 00:00:00.020250227,4,1,22,11,38,111,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,1,0
+22400859,1970-01-01 00:00:00.020250228,1,6,18,26,-82,253,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400859,1970-01-01 00:00:00.020250228,1,2,9,17,2,177,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,1,0,3,5,47,25,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,2,11,48,4,-35,31,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,2,9,27,20,9,202,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,2,8,53,12,-75,100,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,2,2,46,18,-27,181,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,3,8,13,26,130,231,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400859,1970-01-01 00:00:00.020250228,3,0,48,12,111,61,Mid-Range,Turnaround Jump Shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,4,11,23,3,38,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,4,10,43,5,11,56,In The Paint (Non-RA),Driving Hook Shot,2PT Field Goal,1,1,0,0
+22400859,1970-01-01 00:00:00.020250228,4,2,14,6,45,52,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1,1,0
+22400874,1970-01-01 00:00:00.020250302,1,9,2,1,-4,13,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22400874,1970-01-01 00:00:00.020250302,2,9,4,12,-67,105,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400874,1970-01-01 00:00:00.020250302,3,9,44,11,45,111,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400874,1970-01-01 00:00:00.020250302,3,9,11,3,29,8,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400874,1970-01-01 00:00:00.020250302,3,6,46,2,21,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400874,1970-01-01 00:00:00.020250302,4,7,2,23,233,0,Right Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400890,1970-01-01 00:00:00.020250304,1,8,34,25,-190,175,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400890,1970-01-01 00:00:00.020250304,2,6,51,26,-184,197,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400890,1970-01-01 00:00:00.020250304,2,5,29,27,-191,196,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400890,1970-01-01 00:00:00.020250304,3,11,14,6,-27,59,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400890,1970-01-01 00:00:00.020250304,3,5,42,1,-2,15,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22400890,1970-01-01 00:00:00.020250304,3,0,6,24,-44,239,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22400890,1970-01-01 00:00:00.020250304,4,11,10,3,5,31,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400890,1970-01-01 00:00:00.020250304,4,10,38,25,55,245,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400890,1970-01-01 00:00:00.020250304,4,9,5,2,-5,24,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400890,1970-01-01 00:00:00.020250304,4,8,4,11,39,111,In The Paint (Non-RA),Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,1,10,49,1,-7,17,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,1,6,9,15,-70,142,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,2,8,8,4,12,46,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,2,7,42,2,22,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,2,6,59,1,-10,14,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,2,2,48,2,9,20,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,2,1,42,4,22,42,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,3,5,33,1,-2,17,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,4,10,41,3,-10,36,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22400903,1970-01-01 00:00:00.020250306,4,4,28,24,-235,62,Left Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22400903,1970-01-01 00:00:00.020250306,4,1,51,29,-29,289,Above the Break 3,Jump Shot,3PT Field Goal,1,1,1,1
+22400918,1970-01-01 00:00:00.020250308,1,8,47,13,-129,17,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,1,8,20,1,11,3,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,1,1,2,5,40,34,In The Paint (Non-RA),Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,2,8,31,9,-88,27,Mid-Range,Fadeaway Bank shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,2,3,12,2,-22,11,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,2,2,46,17,-140,109,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,2,1,51,14,-145,32,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,3,1,39,1,0,16,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,4,10,25,12,-28,126,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,4,9,47,16,-9,164,Mid-Range,Pullup Jump shot,2PT Field Goal,1,1,0,0
+22400918,1970-01-01 00:00:00.020250308,4,7,5,7,-37,67,In The Paint (Non-RA),Turnaround Bank shot,2PT Field Goal,1,1,0,0
+22401028,1970-01-01 00:00:00.020250322,1,10,19,2,-6,28,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22401028,1970-01-01 00:00:00.020250322,2,9,6,27,-13,270,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401028,1970-01-01 00:00:00.020250322,3,11,19,3,-4,30,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22401028,1970-01-01 00:00:00.020250322,3,10,30,4,-11,40,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22401028,1970-01-01 00:00:00.020250322,3,1,5,1,-11,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401028,1970-01-01 00:00:00.020250322,4,9,15,1,-10,9,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22401028,1970-01-01 00:00:00.020250322,4,8,2,0,-6,4,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,1,7,51,5,28,44,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,1,1,1,3,5,34,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,2,8,7,7,65,34,In The Paint (Non-RA),Driving Bank Hook Shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,2,1,15,3,4,37,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,3,11,37,14,-47,138,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,3,9,41,1,-16,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,3,6,51,6,-60,31,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,4,6,59,3,-13,29,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401038,1970-01-01 00:00:00.020250324,4,2,35,0,-6,6,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,1,0
+22401055,1970-01-01 00:00:00.020250326,4,11,11,3,29,18,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22401055,1970-01-01 00:00:00.020250326,4,10,37,18,161,84,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22401055,1970-01-01 00:00:00.020250326,4,9,39,1,11,15,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22401055,1970-01-01 00:00:00.020250326,4,0,0,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,1,0
+22401063,1970-01-01 00:00:00.020250327,1,8,45,8,-76,39,In The Paint (Non-RA),Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22401063,1970-01-01 00:00:00.020250327,1,6,4,1,10,15,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22401063,1970-01-01 00:00:00.020250327,2,1,52,0,0,0,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1,0,0
+22401063,1970-01-01 00:00:00.020250327,2,0,55,5,-11,54,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22401063,1970-01-01 00:00:00.020250327,2,0,32,1,-10,13,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22401063,1970-01-01 00:00:00.020250327,3,10,54,1,18,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401063,1970-01-01 00:00:00.020250327,3,4,49,0,1,6,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22401063,1970-01-01 00:00:00.020250327,4,2,51,1,12,8,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,1,0
+22401078,1970-01-01 00:00:00.020250329,1,9,59,24,-228,97,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401078,1970-01-01 00:00:00.020250329,1,8,41,1,-11,1,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22401078,1970-01-01 00:00:00.020250329,2,9,15,27,2,273,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401078,1970-01-01 00:00:00.020250329,2,4,14,6,-62,27,In The Paint (Non-RA),Running Pull-Up Jump Shot,2PT Field Goal,1,1,0,0
+22401078,1970-01-01 00:00:00.020250329,2,0,36,1,10,6,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22401078,1970-01-01 00:00:00.020250329,2,0,28,1,-4,11,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22401078,1970-01-01 00:00:00.020250329,3,10,33,9,-85,42,Mid-Range,Turnaround Bank shot,2PT Field Goal,1,1,0,0
+22401078,1970-01-01 00:00:00.020250329,3,7,38,0,-1,6,Restricted Area,Running Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22401078,1970-01-01 00:00:00.020250329,4,8,20,17,-175,-2,Mid-Range,Step Back Jump shot,2PT Field Goal,1,1,0,0
+22401078,1970-01-01 00:00:00.020250329,4,7,33,0,-4,5,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22401096,1970-01-01 00:00:00.020250331,1,6,59,19,-138,144,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22401096,1970-01-01 00:00:00.020250331,2,10,45,28,-162,238,Above the Break 3,Floating Jump shot,3PT Field Goal,1,1,0,1
+22401096,1970-01-01 00:00:00.020250331,3,10,53,22,-229,-15,Left Corner 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401096,1970-01-01 00:00:00.020250331,3,7,34,3,15,27,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22401096,1970-01-01 00:00:00.020250331,4,7,26,2,21,16,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401117,1970-01-01 00:00:00.020250403,2,8,52,25,129,223,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401117,1970-01-01 00:00:00.020250403,2,5,48,26,-203,164,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401117,1970-01-01 00:00:00.020250403,3,10,20,26,-32,261,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401117,1970-01-01 00:00:00.020250403,3,9,17,2,-15,19,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22401117,1970-01-01 00:00:00.020250403,3,6,47,1,-9,13,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401117,1970-01-01 00:00:00.020250403,3,6,6,0,1,5,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22401117,1970-01-01 00:00:00.020250403,3,2,25,1,-13,9,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401117,1970-01-01 00:00:00.020250403,4,7,34,1,-4,11,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401117,1970-01-01 00:00:00.020250403,4,6,14,29,98,273,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401117,1970-01-01 00:00:00.020250403,4,1,51,23,-230,27,Left Corner 3,Jump Shot,3PT Field Goal,1,1,1,1
+22401126,1970-01-01 00:00:00.020250404,1,11,34,26,-65,257,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401126,1970-01-01 00:00:00.020250404,2,9,37,26,148,216,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401126,1970-01-01 00:00:00.020250404,2,8,27,15,-69,137,In The Paint (Non-RA),Turnaround Jump Shot,2PT Field Goal,1,1,0,0
+22401126,1970-01-01 00:00:00.020250404,2,7,26,18,-98,151,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22401126,1970-01-01 00:00:00.020250404,4,10,50,1,-1,14,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22401126,1970-01-01 00:00:00.020250404,4,8,58,18,-189,-6,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22401126,1970-01-01 00:00:00.020250404,4,6,18,2,-22,10,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401126,1970-01-01 00:00:00.020250404,4,5,55,1,6,8,Restricted Area,Layup Shot,2PT Field Goal,1,1,0,0
+22401126,1970-01-01 00:00:00.020250404,4,4,9,1,7,8,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22401135,1970-01-01 00:00:00.020250406,1,5,55,15,103,120,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22401135,1970-01-01 00:00:00.020250406,1,0,6,2,-22,10,Restricted Area,Driving Finger Roll Layup Shot,2PT Field Goal,1,1,0,0
+22401135,1970-01-01 00:00:00.020250406,2,11,47,12,120,-3,Mid-Range,Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22401135,1970-01-01 00:00:00.020250406,2,9,4,27,179,207,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401135,1970-01-01 00:00:00.020250406,3,8,39,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22401135,1970-01-01 00:00:00.020250406,3,0,0,12,-60,110,In The Paint (Non-RA),Fadeaway Jump Shot,2PT Field Goal,1,1,0,0
+22401135,1970-01-01 00:00:00.020250406,4,11,4,15,-154,6,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22401135,1970-01-01 00:00:00.020250406,4,9,9,2,16,19,Restricted Area,Driving Dunk Shot,2PT Field Goal,1,1,0,0
+22401135,1970-01-01 00:00:00.020250406,4,6,51,16,-28,158,Mid-Range,Turnaround Fadeaway shot,2PT Field Goal,1,1,0,0
+22401153,1970-01-01 00:00:00.020250408,2,9,44,5,-46,34,In The Paint (Non-RA),Running Layup Shot,2PT Field Goal,1,1,0,0
+22401153,1970-01-01 00:00:00.020250408,2,0,29,26,130,234,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401153,1970-01-01 00:00:00.020250408,3,9,41,10,-5,101,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22401153,1970-01-01 00:00:00.020250408,3,9,1,27,201,190,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22401153,1970-01-01 00:00:00.020250408,3,6,44,31,-110,297,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401153,1970-01-01 00:00:00.020250408,4,11,22,7,-29,64,In The Paint (Non-RA),Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401153,1970-01-01 00:00:00.020250408,4,10,31,2,-20,22,Restricted Area,Running Layup Shot,2PT Field Goal,1,1,0,0
+22401153,1970-01-01 00:00:00.020250408,4,4,31,11,-39,109,In The Paint (Non-RA),Driving Floating Jump Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,2,11,19,0,-9,0,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,2,9,23,0,7,5,Restricted Area,Running Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,3,8,49,16,-164,-8,Mid-Range,Running Pull-Up Jump Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,3,7,29,4,38,13,In The Paint (Non-RA),Turnaround Bank Hook Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,3,7,8,0,-5,4,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,4,9,41,1,-13,1,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,4,8,10,2,-23,6,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,4,7,26,1,-1,15,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,4,6,19,0,-7,2,Restricted Area,Putback Layup Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,4,4,43,0,5,1,Restricted Area,Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22401159,1970-01-01 00:00:00.020250409,4,4,4,1,-15,10,Restricted Area,Cutting Layup Shot,2PT Field Goal,1,1,0,0
+22401185,1970-01-01 00:00:00.020250411,1,11,17,1,12,11,Restricted Area,Alley Oop Dunk Shot,2PT Field Goal,1,1,0,0
+22401185,1970-01-01 00:00:00.020250411,1,10,51,26,114,241,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22401185,1970-01-01 00:00:00.020250411,1,7,1,20,-141,152,Mid-Range,Jump Shot,2PT Field Goal,1,1,0,0
+22401185,1970-01-01 00:00:00.020250411,2,10,55,4,-33,31,In The Paint (Non-RA),Driving Reverse Layup Shot,2PT Field Goal,1,1,0,0
+22401185,1970-01-01 00:00:00.020250411,2,7,54,0,-5,6,Restricted Area,Cutting Dunk Shot,2PT Field Goal,1,1,0,0
+22401185,1970-01-01 00:00:00.020250411,2,6,8,2,20,16,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,0,0
+22401220,1970-01-01 00:00:00.020241215,1,9,20,0,-5,7,Restricted Area,Running Dunk Shot,2PT Field Goal,1,1,0,0
+22401220,1970-01-01 00:00:00.020241215,1,9,1,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22401220,1970-01-01 00:00:00.020241215,1,0,17,26,97,243,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401220,1970-01-01 00:00:00.020241215,3,7,24,27,34,269,Above the Break 3,Jump Shot,3PT Field Goal,1,1,0,1
+22401220,1970-01-01 00:00:00.020241215,4,11,8,0,0,0,Restricted Area,Tip Layup Shot,2PT Field Goal,1,1,0,0
+22401220,1970-01-01 00:00:00.020241215,4,8,48,26,103,246,Above the Break 3,Pullup Jump shot,3PT Field Goal,1,1,0,1
+22401220,1970-01-01 00:00:00.020241215,4,1,27,1,-2,14,Restricted Area,Driving Layup Shot,2PT Field Goal,1,1,1,0

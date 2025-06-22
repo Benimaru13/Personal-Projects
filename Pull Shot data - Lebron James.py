@@ -28,11 +28,7 @@ def clean_shot_data(df):
     # Convert 'GAME_DATE' to datetime
     df['GAME_DATE'] = pd.to_datetime(df['GAME_DATE'])
         
-    # Convert 'SHOT_CLOCK' to integer
-    #df['SHOT_CLOCK'] = df['SHOT_CLOCK'].astype(int)
-    
     # Drop NA values in 'SHOT_MADE_FLAG' and 'SHOT_ATTEMPTED_FLAG'
-    #df.dropna(subset=["SHOT_CLOCK"], inplace=True)
     df.dropna(subset=["SHOT_MADE_FLAG"], inplace=True)
     df.dropna(subset=["SHOT_ATTEMPTED_FLAG"], inplace=True)
     
@@ -43,6 +39,11 @@ def clean_shot_data(df):
     df['SHOT_DISTANCE'] = pd.to_numeric(df['SHOT_DISTANCE'], errors='coerce')    
     # Convert Shot zone and action type to categorical
     df['SHOT_ZONE_BASIC'] = df['SHOT_ZONE_BASIC'].astype('category')
+    
+    # Add the boolean columns for late games and 3 point shots
+    df['LATE_GAME'] = (df['PERIOD'] == 4) & ((df['MINUTES_REMAINING'] < 3) | ((df['MINUTES_REMAINING'] == 3) & (df['SECONDS_REMAINING'] < 30))) # Late game condition
+    df['LATE_GAME'] = df['LATE_GAME'].astype(int)  # Convert boolean to int
+    df['THREE_POINT_SHOT'] = df['SHOT_TYPE'].apply(lambda x: 1 if x == '3PT Field Goal' else 0)
     
     return df
 
