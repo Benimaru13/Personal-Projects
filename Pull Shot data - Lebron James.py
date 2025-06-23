@@ -5,7 +5,8 @@ lebron_id = 2544  # LeBron James
 shot_data = shotchartdetail.ShotChartDetail(
     team_id=0, player_id=lebron_id,
     season_type_all_star='Regular Season',
-    season_nullable='2024-25'
+    season_nullable='2024-25',
+    context_measure_simple='FGA' # Use 'FGA' to get all shot attempts, including misses
 ).get_data_frames()[0]
 
 shot_data.to_csv("lebron_shots_raw_2024_25.csv", index=False)
