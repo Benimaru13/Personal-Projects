@@ -21,7 +21,7 @@ def clean_shot_data(df):
     columns_to_keep = [
         "GAME_ID", "GAME_DATE", "PERIOD", "MINUTES_REMAINING", "SECONDS_REMAINING",
         "SHOT_DISTANCE", "LOC_X", "LOC_Y",
-        "SHOT_ZONE_BASIC", "ACTION_TYPE", "SHOT_TYPE",
+        "SHOT_ZONE_BASIC", "ACTION_TYPE", "SHOT_TYPE", "SHOT_ZONE_AREA",
         "SHOT_ATTEMPTED_FLAG", "SHOT_MADE_FLAG"]
     # Keep only the relevant columns
     df = df[columns_to_keep]
