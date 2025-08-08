@@ -7,3 +7,6 @@ def QuickSort(arr):
         middle = [x for x in arr if x == pivot]
         right = [x for x in arr if x > pivot]
         return QuickSort(left) + middle + QuickSort(right)
+
+arr = [3, 6, 8, 10, 1, 2, 1]    
+print(QuickSort(arr))
