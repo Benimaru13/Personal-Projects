@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()  # Load environment variables from .env file
 # === Step 1: Spotify API credentials ===
 
-client_id = os.getenv("SPOTIFY_CLIENT_ID")  # Replace with your client ID or use environment variable
-client_secret =  os.getenv("SPOTIFY_CLIENT_SECRET")  # Replace with your client secret or use environment variable
+client_id = os.getenv("SPOTIFY_CLIENT_ID")  # Replace with the env client ID
+client_secret =  os.getenv("SPOTIFY_CLIENT_SECRET")  # Replace with the env client secret
 
 # === Step 2: Get access token ===
 auth_str = f"{client_id}:{client_secret}"
@@ -25,18 +25,20 @@ data = {'grant_type': 'client_credentials'}
 res = requests.post(token_url, headers=headers, data=data)
 access_token = res.json().get('access_token')
 
+# fall back if token retrieval fails
 if not access_token:
     print("Failed to get token.")
     exit()
 
 # === Step 3: Search for tracks ===
 search_url = 'https://api.spotify.com/v1/search'
-query = 'basketball'  # or any keyword/artist/genre you want
+query = 'pop'  # or any keyword/artist/genre that you want to search for.. I am choosing pop for genericity
 params = {
     'q': query,
     'type': 'track',
-    'limit': 20  # You can adjust this
+    'limit': 20  # Adjustable - number of tracks to fetch
 }
+
 search_headers = {
     'Authorization': f'Bearer {access_token}'
 }
@@ -52,6 +54,7 @@ for item in tracks_json.get('tracks', {}).get('items', []):
     features_res = requests.get(features_url, headers=search_headers)
 
     if features_res.status_code != 200:
+        print(f"Status code: {features_res.status_code}, Response: {features_res.text}")
         print(f"Skipping track {track_id} (no features found)")
         continue
 
@@ -59,7 +62,8 @@ for item in tracks_json.get('tracks', {}).get('items', []):
 
     track_info = {
         'Track Name': item['name'],
-        'Artist': item['artists'][0]['name'],
+        'Artist': item['artists'][0]['name']}
+    """ 
         'Album': item['album']['name'],
         'Release Date': item['album']['release_date'],
         'Spotify URL': item['external_urls']['spotify'],
@@ -75,7 +79,7 @@ for item in tracks_json.get('tracks', {}).get('items', []):
         'key': features['key'],
         'mode': features['mode'],
         'time_signature': features['time_signature']
-    }
+    """
 
     track_data.append(track_info)
     time.sleep(0.1)  # Pause to avoid rate limiting (optional)
