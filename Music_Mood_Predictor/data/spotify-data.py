@@ -2,10 +2,14 @@ import requests
 import base64
 import pandas as pd
 import time
+import os
+from dotenv import load_dotenv
 
+load_dotenv()  # Load environment variables from .env file
 # === Step 1: Spotify API credentials ===
-client_id = '66eb029b579847bab07b1e529cf81516'
-client_secret = '1e868543961e4370bd188bb21026bea6'
+
+client_id = os.getenv("SPOTIFY_CLIENT_ID")  # Replace with your client ID or use environment variable
+client_secret =  os.getenv("SPOTIFY_CLIENT_SECRET")  # Replace with your client secret or use environment variable
 
 # === Step 2: Get access token ===
 auth_str = f"{client_id}:{client_secret}"
