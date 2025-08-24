@@ -24,6 +24,7 @@ data = {'grant_type': 'client_credentials'}
 
 res = requests.post(token_url, headers=headers, data=data)
 access_token = res.json().get('access_token')
+print(f"Access Token: {access_token}")
 
 # fall back if token retrieval fails
 if not access_token:
