@@ -45,6 +45,7 @@ search_headers = {
 }
 
 response = requests.get(search_url, headers=search_headers, params=params)
+print("Search headers:", search_headers)
 tracks_json = response.json()
 
 track_data = []
@@ -53,11 +54,13 @@ for item in tracks_json.get('tracks', {}).get('items', []):
     track_id = item['id']
     features_url = f'https://api.spotify.com/v1/audio-features/{track_id}'
     features_res = requests.get(features_url, headers=search_headers)
+    print("Features response:", features_res.status_code, features_res.text)  # <-- Correct line
 
     if features_res.status_code != 200:
         print(f"Status code: {features_res.status_code}, Response: {features_res.text}")
         print(f"Skipping track {track_id} (no features found)")
         continue
+
 
     features = features_res.json()
 
