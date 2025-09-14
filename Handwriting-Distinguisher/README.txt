@@ -12,3 +12,5 @@ The project is implemented in Python using libraries such as TensorFlow and Kera
 The dataset used is a simple dataset of handwriting samples from me and my siblings. 
 Success is defined by the model's ability to distinguish our handwritings from each other with over 90% accuracy.
 The project is structured to allow for easy updates and improvements, such as adding more handwriting samples or fine-tuning the CNN architecture.
+
+The dataset pictures have been taken and they are currently being processed.
