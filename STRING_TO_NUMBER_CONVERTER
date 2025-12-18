@@ -1,0 +1,39 @@
+#String to Number converter
+"""
+This project is to create a string to number converter
+My approach is to use a base dictionary to store key values; Numbers 0 - 9 and then key words like million or hundred... etc.
+I will request user input and parse it using an algorithm
+Let's get into it.
+
+i also gotta somehow process the order that the words are coming in...
+"""
+
+NumDict = {
+    "zero": 0, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
+    "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10,
+    "eleven": 11, "twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15,
+    "sixteen": 16, "seventeen": 17, "eighteen": 18, "nineteen": 19, "twenty": 20,
+    "thirty": 30, "forty": 40, "fifty": 50, "sixty": 60, "seventy": 70,
+    "eighty": 80, "ninety": 90
+    }
+    
+Multipliers = {"hundred": 100, "thousand": 1000, "million": 1000000}
+    
+AlphaWord = input("Input a number in words: \n")
+DecodedWord = AlphaWord.split()
+# print(DecodedWord)
+total = 0
+value = 01
+
+for char in range(len(DecodedWord)):
+    if DecodedWord[char] not in NumDict:
+        continue
+    else:
+        if DecodedWord[char] in Multipliers:
+            total *= NumDict[word]
+            continue
+        print(NumDict[word])
+        total += NumDict[word]
+    
+print(f"The number is: {total}")
+
