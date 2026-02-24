@@ -1,4 +1,5 @@
 # Readme.txt
+
 Handwriting Distinguisher (Handwriting Classifier)
 // Overview
 
@@ -35,14 +36,13 @@ The dataset is meant for experimentation and learning, not general-purpose handw
 
 Preprocessing (planned)
 
-Convert images to grayscale 
+Convert images to grayscale
 
 Resize to a consistent shape (124 x 124)
 
 Normalize pixel values to [0, 1]
 
 Optionally apply data augmentation (rotation, shear, zoom, slight noise)
-
 
 // Model
 
@@ -76,7 +76,6 @@ number of epochs
 
 regularization methods (dropout, augmentation)
 
-
 // Evaluation
 
 Success criterion (for now):
@@ -108,7 +107,6 @@ handwriting-distinguisher/
 ├── results/             # metrics, saved models
 └── README.md
 
-
 // Roadmap
 
  Decide final input image resolution
@@ -123,7 +121,6 @@ handwriting-distinguisher/
 
  Publish trained model and results
 
-
 // Limitations
 
 Small dataset (risk of overfitting)
@@ -133,7 +130,6 @@ Limited handwriting diversity
 Model may not generalize beyond the current participants
 
 This project is primarily a learning exercise.
-
 
 // Credits
 
